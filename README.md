@@ -1,1 +1,1 @@
-# WebAutomationTest
+# CypressAutomationTest
